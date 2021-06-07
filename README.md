@@ -7,9 +7,19 @@ You can also view completed items, uncompleted items, or all items together by c
 
 ![all](./all.jpg)
 ![all](./comp.jpg)
-![all](./uncomp.jpg)
 ![all](./lc.jpg)
 
 # Technology Used
 - HTML / CSS
 - VANILLA JAVASCRIPT
+
+# Deploy
+- Deployed Application:
+https://yuniksung.github.io/todo-v2/
+
+- Github Repository: 
+https://github.com/yuniksung/todo-v2
+
+# Contributor:
+Yunik Sung
+yuniksung@gmail.com
